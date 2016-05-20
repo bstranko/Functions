@@ -1,0 +1,90 @@
+Number of Cases: 8
+
+ Case #1
+
+  Number of Points:  2
+  Input Data:  3  7  
+  Sorted Data: 3  7
+  Mean: 5
+  Standard Deviation: 2
+  Minimum Value: 3
+  Maximum Value: 7
+
+
+ Case #2
+
+  Number of Points:  3
+  Input Data:  1  2  3  
+  Sorted Data: 1  2  3
+  Mean: 2
+  Standard Deviation: 0.816497
+  Minimum Value: 1
+  Maximum Value: 3
+
+
+ Case #3
+
+  Number of Points:  4
+  Input Data:  3  1  2  4  
+  Sorted Data: 1  2  3  4
+  Mean: 2.5
+  Standard Deviation: 1.11803
+  Minimum Value: 1
+  Maximum Value: 4
+
+
+ Case #4
+
+  Number of Points:  6
+  Input Data:  2  4  1  3  9  8  
+  Sorted Data: 1  2  3  4  8  9
+  Mean: 4.5
+  Standard Deviation: 2.98608
+  Minimum Value: 1
+  Maximum Value: 9
+
+
+ Case #5
+
+  Number of Points:  3
+  Input Data:  33  10  14  
+  Sorted Data: 10 14 33
+  Mean: 19
+  Standard Deviation: 10.0333
+  Minimum Value: 10
+  Maximum Value: 33
+
+
+ Case #6
+
+  Number of Points:  4
+  Input Data:  7  2  5  1  
+  Sorted Data: 1  2  5  7
+  Mean: 3.75
+  Standard Deviation: 2.38485
+  Minimum Value: 1
+  Maximum Value: 7
+
+
+ Case #7
+
+  Number of Points:  10
+  Input Data:  1  4  7  2  5  8  3  6  10  9  
+  Sorted Data: 1  2  3  4  5  6  7  8  9 10
+  Mean: 5.5
+  Standard Deviation: 2.87228
+  Minimum Value: 1
+  Maximum Value: 10
+
+
+ Case #8
+
+  Number of Points:  3
+  Input Data:  5  55  25  
+  Sorted Data: 5 25 55
+  Mean: 28.3333
+  Standard Deviation: 20.548
+  Minimum Value: 5
+  Maximum Value: 55
+
+
